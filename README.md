@@ -1,5 +1,6 @@
 # 💫 About Me:
-i am a computer science and engineering student in RNSIT
+Hi 👋,i'm Deekshith S
+i am a computer science and engineering student at RNSIT
 
 
 # 💻 Tech Stack:

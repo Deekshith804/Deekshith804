@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋,i'm Deekshith S
+
 i am a computer science and engineering student at RNSIT
 
 

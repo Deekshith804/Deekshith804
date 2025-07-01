@@ -1,4 +1,15 @@
-# 💫 About Me:
+<div align="center" >
+  <img width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI4aDQ0c2QxbzhiMnRvdmRjZnR3YXIxeDllczczb3JpMWtrbWlpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="coding">
+</div>
+
+<h1 align="center">Hi 👋, I'm Deekshith S </h1>
+<h3 align="center">A Passionate Software Developer From India. </h3>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
+  # 💫 About Me:
 👨‍🎓 Studying Computer Science And Engineering At RNS Institute of Technology.<br>🔭 I’m looking To Contribute to Open Source<br>🌱 I’m Currently focusing on Data Analytics
 
 
